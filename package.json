@@ -1,5 +1,6 @@
 {
   "name": "simple-react-js-weather-app",
+  "homepage": "http://Ezhilarasu1330.github.io/Weather-Station",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -34,6 +35,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^2.2.0"
   }
 }
